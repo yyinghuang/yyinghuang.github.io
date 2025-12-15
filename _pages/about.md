@@ -16,8 +16,8 @@ Research interests: Dynamical Systems, Ergodic Theory, Ergodic optimization, Con
 
 Publications and Preprints 
 ======
-1. Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for the beta-transformations. Replaced by an upcoming new preprint, ([arXiv:2502.12269](https://arxiv.org/abs/2502.12269)). 46 pages. [PDF](../assets/Joint_TPO.pdf)
-1. Y. Huang (with [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for Gauss's continued fraction map. In preparation. [PDF](../assets/Gauss_map.pdf)
+1. Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for the beta-transformations. Replaced by an upcoming new preprint, ([arXiv:2502.12269](https://arxiv.org/abs/2502.12269)). 46 pages. [PDF](../assets/JointTPO.pdf)
+1. Y. Huang (with [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for Gauss's continued fraction map. In preparation. [PDF](../assets/Gaussmap.pdf)
 
 
 

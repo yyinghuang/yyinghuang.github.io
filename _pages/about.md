@@ -16,8 +16,7 @@ Research interests: Dynamical Systems, Ergodic Theory, Ergodic optimization, Con
 
 Publications and Preprints 
 ======
-1. Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for the beta-transformations. Replaced by an upcoming new preprint, ([arXiv:2502.12269](https://arxiv.org/abs/2502.12269)). 46 pages. [PDF](../assets/JointTPO.pdf)
-1. Y. Huang (with [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for Gauss's continued fraction map. In preparation. [PDF](../assets/Gaussmap.pdf)
-
-
-
+1. Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for the beta-transformations. ([arXiv:2502.12269](https://arxiv.org/abs/2502.12269)). 62 pages.
+1. Y. Huang (with [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for Gauss's continued fraction map. Preprint. 40 pages. [PDF](../assets/Gaussmap.pdf)
+1.Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Joint typical periodic optimization. Replace 1. 71 pages. [PDF](../assets/JointTPO.pdf)
+1.Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), oint typical periodic optimization hyperbolic dynamical systems. In preparation

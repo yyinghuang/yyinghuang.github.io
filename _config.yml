@@ -26,11 +26,11 @@ author:
  # avatar           : false
   name             : "Yinying Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student"
+  bio              : "Postdoc"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
-  email            : "miaoyan@stu.pku.edu.cn" 
+  email            : "yyinghuang@pku.edu.cn" 
 
   # Academic websites
   academia         : # URL

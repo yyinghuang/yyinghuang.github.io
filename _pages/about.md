@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a postdoc at [the School of Mathematical Sciences](http://math-en.pku.edu.cn)(SMS) at [Peking University](https://english.pku.edu.cn/).
 
-I’m a PhD candidate at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/)(BICMR) at [Peking University](https://english.pku.edu.cn/) under the supervision of Professor [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/).
+I got my PhD in 2026 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/)(BICMR) at [Peking University](https://english.pku.edu.cn/) under the supervision of Professor [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/).
 I got my Bachelor’s degree in Mathematics from [Beijing Institute of Technology](https://english.bit.edu.cn/index.html) in 2020.
 
 Here is my [CV](../assets/Curriculum_Vitae.pdf).
